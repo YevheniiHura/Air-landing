@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Air Strategic Agency
+
+Developed a captivating landing page for a strategic agency, showcasing their expertise in crafting tailored strategies for businesses. Implemented intuitive user interface and visuals to effectively communicate with users and engage visitors.
+
+Technologies: HTML / CSS / SCSS.
+
+[PROJECT DEMO LINK](https://yevheniihura.github.io/Air-landing/)
+
+[CODE DEMO LINK](https://github.com/YevheniiHura/Air-landing)
